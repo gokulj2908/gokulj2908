@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gokul Jayaraman
 - 👀 I’m a Frontend Development
 - 🌱 I’m currently working on React JS, React-Native Tech Stack.
-- 💞️ I’m looking to collaborate on developing scalable products.
+- 💞️ I’m looking to collaborate on developing products.
 - 📫 Reach me on jgokul290896@gmail.com
 
 <!---
